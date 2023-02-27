@@ -6,3 +6,11 @@
 # COMMAND ----------
 
 2+2
+
+# COMMAND ----------
+
+# MAGIC
+
+# COMMAND ----------
+
+# COMMAND ----------
