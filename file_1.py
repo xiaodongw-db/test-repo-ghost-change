@@ -1,7 +1,7 @@
 # Databricks notebook source
 1+1
 
-# MAGIC %md # Test
+%md # Test
 
 # COMMAND ----------
 
@@ -9,8 +9,8 @@
 
 # COMMAND ----------
 
-# MAGIC
+
 
 # COMMAND ----------
 
-# COMMAND ----------
+
